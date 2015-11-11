@@ -1,6 +1,6 @@
 #Getting and Cleaning Data Course Project
 
-This repository hosts the R code and documentation files for the Data Science's track course ["Getting and Cleaning data"] (https://class.coursera.org/getdata-015) project.
+This repository hosts the R code and documentation files for the Data Science's track course ["Getting and Cleaning data"] (https://www.coursera.org/course/getdata) project.
 
 Input raw data set is taken from [here] (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip). It's described in [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
